@@ -1,2 +1,2 @@
-for i in range(1,31):
-    print(i - 1)
+for i in range(31, 0, -1):
+    print(i)
